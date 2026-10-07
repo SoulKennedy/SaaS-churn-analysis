@@ -1,0 +1,1078 @@
+customer_id,lead_id,signup_date,plan,billing_cycle,mrr,country,company_size,churn_date,churn_reason
+1,51,2024-01-09,Pro,monthly,99.0,Germany,11-50,,
+2,53,2024-01-14,Business,monthly,249.0,United States,11-50,,
+3,71,2024-01-15,Basic,monthly,39.0,Canada,2-10,,
+4,54,2024-01-20,Basic,monthly,39.0,Brazil,2-10,,
+5,78,2024-01-22,Basic,monthly,39.0,United States,Solo,2025-01-16,Price
+6,79,2024-01-23,Business,annual,211.65,India,200+,,
+7,120,2024-01-23,Pro,monthly,99.0,United Kingdom,2-10,2025-08-12,Missing features
+8,156,2024-01-24,Pro,monthly,99.0,United States,51-200,,
+9,81,2024-01-25,Basic,monthly,39.0,United Kingdom,2-10,2024-02-19,Switched to competitor
+10,164,2024-01-25,Pro,monthly,99.0,United Kingdom,51-200,2024-03-21,Price
+11,167,2024-01-27,Pro,annual,84.15,United States,2-10,,
+12,240,2024-01-28,Basic,annual,33.15,India,Solo,,
+13,141,2024-01-29,Basic,annual,33.15,Brazil,Solo,,
+14,305,2024-01-29,Pro,annual,84.15,United Kingdom,11-50,,
+15,284,2024-01-31,Pro,annual,84.15,United States,51-200,,
+16,315,2024-02-01,Basic,monthly,39.0,United States,Solo,2024-07-26,No longer needed
+17,268,2024-02-03,Pro,monthly,99.0,United Kingdom,2-10,2024-12-27,Missing features
+18,423,2024-02-05,Basic,monthly,39.0,Australia,11-50,2025-05-29,Price
+19,279,2024-02-06,Business,monthly,249.0,India,51-200,2024-10-30,Missing features
+20,218,2024-02-09,Pro,monthly,99.0,United States,2-10,2024-06-05,Price
+21,239,2024-02-09,Basic,monthly,39.0,United Kingdom,2-10,2024-03-10,Missing features
+22,281,2024-02-11,Basic,monthly,39.0,United States,Solo,2024-06-05,No longer needed
+23,254,2024-02-12,Pro,annual,84.15,United States,11-50,,
+24,356,2024-02-12,Basic,monthly,39.0,Spain,2-10,2024-03-11,Price
+25,427,2024-02-12,Pro,monthly,99.0,Brazil,2-10,2024-08-05,No longer needed
+26,432,2024-02-12,Basic,monthly,39.0,United States,Solo,2024-03-07,Price
+27,458,2024-02-12,Basic,monthly,39.0,United States,Solo,,
+28,326,2024-02-13,Basic,monthly,39.0,India,2-10,2024-09-01,Business closed
+29,536,2024-02-13,Basic,annual,33.15,United Kingdom,Solo,,
+30,417,2024-02-14,Business,monthly,249.0,Australia,11-50,,
+31,311,2024-02-15,Basic,monthly,39.0,Brazil,Solo,,
+32,488,2024-02-15,Pro,monthly,99.0,,2-10,2024-05-07,Poor support
+33,532,2024-02-17,Pro,monthly,99.0,United States,11-50,,
+34,607,2024-02-17,Pro,monthly,99.0,United Kingdom,2-10,2025-03-10,Price
+35,424,2024-02-19,Pro,annual,84.15,United States,2-10,,
+36,583,2024-02-20,Pro,monthly,99.0,United States,2-10,,
+37,629,2024-02-21,Pro,monthly,99.0,United Kingdom,2-10,,
+38,527,2024-02-22,Basic,monthly,39.0,United States,2-10,,
+39,539,2024-02-22,Business,monthly,249.0,Spain,11-50,,
+40,569,2024-02-22,Pro,annual,84.15,,2-10,,
+41,456,2024-02-23,Basic,monthly,39.0,United Kingdom,2-10,2025-01-13,Price
+42,522,2024-02-23,Basic,monthly,39.0,United States,2-10,2025-08-15,Missing features
+43,658,2024-02-23,Pro,monthly,99.0,France,51-200,2024-10-15,Business closed
+44,531,2024-02-24,Basic,annual,33.15,United States,Solo,,
+45,554,2024-02-24,Basic,monthly,39.0,United Kingdom,2-10,2024-05-22,Price
+46,582,2024-02-24,Basic,monthly,39.0,United States,Solo,2024-04-24,No longer needed
+47,589,2024-02-24,Basic,monthly,39.0,United Kingdom,2-10,2024-05-24,Missing features
+48,438,2024-02-25,Pro,monthly,99.0,United States,51-200,,
+49,600,2024-02-26,Pro,annual,84.15,France,11-50,,
+50,642,2024-02-28,Pro,monthly,99.0,United Kingdom,2-10,2025-03-17,Price
+51,631,2024-03-01,Business,monthly,249.0,Canada,51-200,,
+52,707,2024-03-02,Business,annual,211.65,United States,11-50,,
+53,730,2024-03-03,Basic,monthly,39.0,Canada,2-10,2025-07-26,No longer needed
+54,592,2024-03-04,Pro,monthly,99.0,United States,2-10,2025-05-26,Missing features
+55,722,2024-03-04,Basic,monthly,39.0,India,Solo,2024-06-29,Switched to competitor
+56,636,2024-03-06,Business,monthly,249.0,Germany,11-50,2024-04-28,Switched to competitor
+57,699,2024-03-06,Pro,monthly,99.0,,2-10,,
+58,729,2024-03-06,Pro,monthly,99.0,,2-10,,
+59,814,2024-03-06,Pro,monthly,99.0,,11-50,2024-03-30,Price
+60,650,2024-03-07,Pro,monthly,99.0,United States,11-50,2024-09-24,Switched to competitor
+61,888,2024-03-10,Basic,monthly,39.0,United States,Solo,,
+62,1000,2024-03-10,Basic,monthly,39.0,United States,Solo,2024-10-31,Missing features
+63,971,2024-03-11,Basic,monthly,39.0,United States,Solo,2024-10-02,Switched to competitor
+64,932,2024-03-12,Basic,monthly,39.0,France,2-10,2025-03-06,Switched to competitor
+65,714,2024-03-13,Pro,monthly,99.0,Germany,2-10,2024-11-03,Poor support
+66,772,2024-03-13,Business,monthly,249.0,United States,51-200,2025-09-04,Missing features
+67,880,2024-03-13,Pro,monthly,99.0,United Kingdom,11-50,2025-02-03,Missing features
+68,747,2024-03-14,Pro,annual,84.15,Germany,11-50,,
+69,820,2024-03-14,Business,monthly,249.0,United States,11-50,,
+70,837,2024-03-14,Business,annual,211.65,Germany,51-200,2025-03-07,Business closed
+71,1048,2024-03-15,Basic,monthly,39.0,Spain,Solo,,
+72,921,2024-03-17,Pro,monthly,99.0,United States,2-10,,
+73,899,2024-03-18,Basic,monthly,39.0,Australia,Solo,,
+74,916,2024-03-18,Pro,monthly,99.0,United States,2-10,,
+75,1004,2024-03-18,Basic,monthly,39.0,Germany,Solo,2024-05-09,Price
+76,822,2024-03-20,Basic,monthly,39.0,India,2-10,,
+77,865,2024-03-20,Basic,monthly,39.0,,2-10,2024-04-17,Missing features
+78,801,2024-03-21,Pro,monthly,99.0,United States,11-50,2024-08-14,Switched to competitor
+79,843,2024-03-22,Business,monthly,249.0,United States,51-200,2024-05-12,Poor support
+80,1084,2024-03-22,Basic,monthly,39.0,United Kingdom,2-10,2024-06-11,Business closed
+81,1063,2024-03-24,Business,monthly,249.0,United States,51-200,,
+82,1114,2024-03-25,Pro,annual,84.15,,2-10,2025-03-20,Missing features
+83,1145,2024-03-25,Pro,monthly,99.0,India,11-50,,
+84,1053,2024-03-27,Business,monthly,249.0,France,200+,,
+85,1168,2024-03-28,Basic,monthly,39.0,United States,Solo,,
+86,940,2024-03-29,Basic,monthly,39.0,United Kingdom,Solo,,
+87,1011,2024-03-29,Basic,monthly,39.0,Brazil,2-10,,
+88,1032,2024-03-30,Pro,monthly,99.0,Germany,11-50,,
+89,1102,2024-03-31,Pro,monthly,99.0,United States,2-10,2024-12-17,Price
+90,1174,2024-03-31,Pro,annual,84.15,United Kingdom,11-50,,
+91,1106,2024-04-04,Pro,annual,84.15,Germany,2-10,,
+92,1226,2024-04-04,Basic,annual,33.15,United States,2-10,,
+93,1228,2024-04-04,Basic,monthly,39.0,United States,2-10,2024-11-27,Price
+94,1205,2024-04-05,Pro,annual,84.15,Germany,11-50,,
+95,1091,2024-04-06,Business,monthly,249.0,United Kingdom,11-50,,
+96,1298,2024-04-06,Business,monthly,249.0,India,51-200,2025-09-19,No longer needed
+97,1268,2024-04-08,Basic,monthly,39.0,Brazil,11-50,2024-07-03,No longer needed
+98,1251,2024-04-09,Basic,annual,33.15,United Kingdom,11-50,,
+99,1260,2024-04-09,Pro,monthly,99.0,United States,2-10,2024-08-04,Poor support
+100,1403,2024-04-09,Business,monthly,249.0,United Kingdom,200+,,
+101,1281,2024-04-10,Basic,monthly,39.0,Germany,Solo,2025-04-05,Missing features
+102,1463,2024-04-11,Business,monthly,249.0,United States,200+,2024-07-09,Switched to competitor
+103,1150,2024-04-12,Pro,monthly,99.0,United States,51-200,2024-10-01,No longer needed
+104,1247,2024-04-12,Pro,monthly,99.0,Germany,11-50,2024-07-03,Missing features
+105,1371,2024-04-12,Pro,annual,84.15,United States,51-200,2025-04-05,Business closed
+106,1397,2024-04-14,Basic,monthly,39.0,United States,2-10,,
+107,1301,2024-04-15,Basic,monthly,39.0,United States,2-10,,
+108,1410,2024-04-15,Pro,monthly,99.0,United Kingdom,51-200,,
+109,1499,2024-04-15,Pro,annual,84.15,United States,2-10,,
+110,1502,2024-04-15,Pro,monthly,99.0,United States,2-10,,
+111,1377,2024-04-16,Pro,monthly,99.0,Australia,2-10,2025-02-03,Switched to competitor
+112,1342,2024-04-17,Basic,monthly,39.0,United Kingdom,2-10,2025-05-09,Missing features
+113,1503,2024-04-17,Basic,monthly,39.0,India,Solo,2025-06-04,Price
+114,1200,2024-04-18,Basic,monthly,39.0,Spain,2-10,,
+115,1552,2024-04-18,Pro,monthly,99.0,United States,11-50,2025-05-10,Switched to competitor
+116,1259,2024-04-19,Pro,monthly,99.0,United States,11-50,,
+117,1300,2024-04-19,Pro,annual,84.15,United States,11-50,2025-04-06,Missing features
+118,1416,2024-04-19,Basic,annual,33.15,Germany,Solo,,
+119,1267,2024-04-20,Pro,annual,84.15,United States,11-50,,
+120,1366,2024-04-21,Pro,monthly,99.0,Canada,2-10,2025-12-07,Missing features
+121,1604,2024-04-22,Basic,monthly,39.0,Australia,Solo,2024-08-14,No longer needed
+122,1412,2024-04-23,Basic,monthly,39.0,United States,2-10,2025-08-16,Missing features
+123,1639,2024-04-23,Business,monthly,249.0,United States,51-200,,
+124,1419,2024-04-25,Pro,annual,84.15,United States,2-10,,
+125,1525,2024-04-26,Basic,annual,33.15,Germany,Solo,,
+126,1539,2024-04-26,Pro,monthly,99.0,Australia,11-50,2025-02-15,Switched to competitor
+127,1613,2024-04-27,Basic,annual,33.15,United States,11-50,,
+128,1610,2024-04-30,Pro,annual,84.15,United States,2-10,,
+129,1612,2024-05-01,Basic,monthly,39.0,United States,Solo,2025-07-22,No longer needed
+130,1607,2024-05-03,Basic,monthly,39.0,United States,Solo,2024-05-27,Price
+131,1493,2024-05-04,Pro,monthly,99.0,United States,51-200,,
+132,1640,2024-05-04,Basic,monthly,39.0,United Kingdom,Solo,2024-08-01,Price
+133,1659,2024-05-04,Basic,monthly,39.0,United States,2-10,,
+134,1743,2024-05-04,Pro,monthly,99.0,United Kingdom,11-50,2025-08-19,Missing features
+135,1817,2024-05-06,Basic,monthly,39.0,United Kingdom,Solo,2024-10-29,Price
+136,1887,2024-05-06,Basic,monthly,39.0,United States,2-10,2024-05-28,Price
+137,1527,2024-05-08,Basic,monthly,39.0,Germany,Solo,,
+138,1815,2024-05-08,Business,monthly,249.0,India,200+,,
+139,1644,2024-05-09,Pro,monthly,99.0,United States,2-10,2025-09-01,No longer needed
+140,1911,2024-05-09,Business,monthly,249.0,United States,51-200,2024-12-31,Missing features
+141,1773,2024-05-10,Basic,monthly,39.0,France,11-50,2024-09-01,Business closed
+142,1645,2024-05-12,Basic,monthly,39.0,United States,Solo,,
+143,1809,2024-05-12,Business,annual,211.65,United States,200+,,
+144,1965,2024-05-12,Basic,monthly,39.0,United States,Solo,,
+145,1680,2024-05-13,Pro,monthly,99.0,France,11-50,,
+146,1740,2024-05-13,Pro,monthly,99.0,United Kingdom,11-50,,
+147,1698,2024-05-15,Basic,monthly,39.0,India,Solo,2025-06-30,Price
+148,1796,2024-05-15,Pro,monthly,99.0,United States,51-200,,
+149,1838,2024-05-16,Business,annual,211.65,United States,51-200,,
+150,1886,2024-05-18,Basic,monthly,39.0,Germany,Solo,2025-01-13,Price
+151,1963,2024-05-18,Business,annual,211.65,Canada,51-200,,
+152,2090,2024-05-18,Pro,monthly,99.0,United Kingdom,2-10,,
+153,1865,2024-05-19,Business,monthly,249.0,United States,51-200,2024-11-08,Missing features
+154,1929,2024-05-19,Pro,monthly,99.0,Australia,51-200,,
+155,1787,2024-05-20,Business,monthly,249.0,United States,51-200,2025-07-08,Poor support
+156,1841,2024-05-20,Basic,monthly,39.0,United States,2-10,,
+157,1846,2024-05-20,Basic,monthly,39.0,United States,Solo,2025-02-05,Missing features
+158,1907,2024-05-20,Basic,annual,33.15,United Kingdom,2-10,2025-05-09,Price
+159,2055,2024-05-20,Basic,monthly,39.0,United Kingdom,Solo,2024-06-19,Price
+160,1925,2024-05-21,Pro,monthly,99.0,United States,11-50,,
+161,1936,2024-05-22,Pro,monthly,99.0,Germany,2-10,,
+162,2047,2024-05-22,Pro,monthly,99.0,United States,11-50,2025-10-06,Price
+163,2120,2024-05-22,Basic,monthly,39.0,Australia,2-10,2024-06-21,Price
+164,2030,2024-05-24,Basic,monthly,39.0,Canada,2-10,2025-05-13,Price
+165,2054,2024-05-24,Pro,annual,84.15,India,11-50,,
+166,1864,2024-05-25,Business,monthly,249.0,United States,51-200,,
+167,2052,2024-05-25,Pro,monthly,99.0,Canada,11-50,2025-12-15,Switched to competitor
+168,2075,2024-05-26,Pro,monthly,99.0,India,2-10,2024-07-18,Business closed
+169,2230,2024-05-26,Basic,monthly,39.0,United States,11-50,2025-06-14,Price
+170,1933,2024-05-27,Basic,monthly,39.0,United States,Solo,2024-09-18,Poor support
+171,1938,2024-05-28,Pro,monthly,99.0,France,2-10,,
+172,1942,2024-05-28,Pro,monthly,99.0,United Kingdom,51-200,2025-03-22,Price
+173,2105,2024-05-29,Basic,monthly,39.0,United States,Solo,,
+174,2139,2024-05-29,Business,annual,211.65,Australia,11-50,,
+175,2059,2024-05-30,Basic,monthly,39.0,India,2-10,2024-07-20,Price
+176,2184,2024-06-03,Business,annual,211.65,,200+,,
+177,2205,2024-06-03,Business,annual,211.65,United States,51-200,,
+178,2004,2024-06-05,Basic,monthly,39.0,Germany,11-50,2025-01-31,Business closed
+179,2273,2024-06-06,Business,monthly,249.0,,51-200,,
+180,2128,2024-06-07,Business,monthly,249.0,United States,51-200,2024-09-30,Switched to competitor
+181,2215,2024-06-07,Pro,monthly,99.0,India,2-10,,
+182,2253,2024-06-08,Basic,annual,33.15,United States,Solo,,
+183,2265,2024-06-09,Business,annual,211.65,Germany,11-50,2025-05-28,Business closed
+184,2363,2024-06-09,Basic,monthly,39.0,Canada,2-10,2024-07-02,No longer needed
+185,2287,2024-06-10,Pro,annual,84.15,Brazil,11-50,,
+186,2290,2024-06-11,Pro,annual,84.15,United Kingdom,2-10,,
+187,2375,2024-06-11,Basic,annual,33.15,,11-50,,
+188,2445,2024-06-11,Basic,monthly,39.0,United Kingdom,2-10,2024-08-10,Switched to competitor
+189,2281,2024-06-12,Basic,monthly,39.0,United States,Solo,,
+190,2394,2024-06-12,Pro,annual,84.15,,11-50,,
+191,2435,2024-06-12,Pro,monthly,99.0,India,11-50,,
+192,2401,2024-06-13,Pro,annual,84.15,Australia,11-50,,
+193,2412,2024-06-15,Basic,monthly,39.0,United States,2-10,2025-03-10,Missing features
+194,2530,2024-06-15,Business,monthly,249.0,Canada,200+,,
+195,2484,2024-06-16,Pro,monthly,99.0,United Kingdom,11-50,2025-08-01,Switched to competitor
+196,2327,2024-06-17,Business,monthly,249.0,United States,51-200,,
+197,2378,2024-06-17,Pro,annual,84.15,Germany,2-10,,
+198,2569,2024-06-17,Basic,monthly,39.0,Spain,Solo,2024-08-10,Price
+199,2312,2024-06-18,Basic,monthly,39.0,France,Solo,2024-12-14,Switched to competitor
+200,2478,2024-06-18,Pro,monthly,99.0,,2-10,2025-04-10,Business closed
+201,2446,2024-06-19,Pro,monthly,99.0,United States,2-10,2024-11-09,Business closed
+202,2408,2024-06-20,Pro,monthly,99.0,United States,11-50,2024-09-11,Price
+203,2322,2024-06-21,Basic,monthly,39.0,Spain,11-50,2024-07-19,No longer needed
+204,2357,2024-06-21,Business,monthly,249.0,Australia,51-200,2024-09-14,Poor support
+205,2442,2024-06-21,Basic,monthly,39.0,Germany,Solo,2025-03-10,Poor support
+206,2434,2024-06-22,Basic,monthly,39.0,United States,Solo,,
+207,2520,2024-06-25,Pro,annual,84.15,United States,2-10,,
+208,2555,2024-06-25,Pro,monthly,99.0,United States,2-10,,
+209,2575,2024-06-25,Business,monthly,249.0,United States,200+,,
+210,2591,2024-06-25,Basic,monthly,39.0,United States,Solo,2024-11-22,Business closed
+211,2599,2024-06-27,Pro,annual,84.15,,2-10,,
+212,2712,2024-06-27,Business,monthly,249.0,,11-50,,
+213,2517,2024-06-28,Business,monthly,249.0,United Kingdom,51-200,2024-09-20,Missing features
+214,2557,2024-06-29,Basic,monthly,39.0,Australia,2-10,2025-02-24,Price
+215,2609,2024-06-30,Pro,monthly,99.0,India,11-50,,
+216,2714,2024-07-01,Basic,monthly,39.0,United States,2-10,2024-11-22,Price
+217,2740,2024-07-01,Basic,monthly,39.0,United States,Solo,2025-01-26,Price
+218,2809,2024-07-01,Basic,annual,33.15,India,2-10,,
+219,2545,2024-07-02,Basic,monthly,39.0,United States,2-10,2025-04-25,Missing features
+220,2757,2024-07-03,Pro,annual,84.15,United States,2-10,,
+221,2770,2024-07-03,Basic,monthly,39.0,United States,2-10,,
+222,2831,2024-07-03,Pro,monthly,99.0,France,2-10,,
+223,2837,2024-07-03,Pro,monthly,99.0,India,2-10,2024-07-25,Poor support
+224,2868,2024-07-03,Pro,monthly,99.0,Spain,11-50,,
+225,2726,2024-07-04,Pro,monthly,99.0,India,2-10,,
+226,2695,2024-07-05,Pro,monthly,99.0,India,51-200,,
+227,2749,2024-07-05,Pro,annual,84.15,,11-50,,
+228,2807,2024-07-05,Business,annual,211.65,United Kingdom,200+,,
+229,2713,2024-07-06,Basic,monthly,39.0,Spain,Solo,2025-01-23,Business closed
+230,2877,2024-07-08,Pro,monthly,99.0,United Kingdom,2-10,2024-08-30,Switched to competitor
+231,3028,2024-07-09,Business,annual,211.65,United States,51-200,,
+232,2821,2024-07-10,Basic,monthly,39.0,United States,Solo,2025-03-02,Missing features
+233,2668,2024-07-11,Basic,monthly,39.0,United States,2-10,,
+234,2834,2024-07-11,Basic,monthly,39.0,United States,2-10,2025-02-01,Price
+235,2879,2024-07-11,Pro,annual,84.15,United States,2-10,2025-06-28,Price
+236,2896,2024-07-11,Basic,monthly,39.0,Brazil,Solo,2024-08-03,Missing features
+237,2723,2024-07-12,Pro,monthly,99.0,Brazil,11-50,2024-09-10,Price
+238,2914,2024-07-12,Pro,monthly,99.0,Australia,51-200,2025-10-01,No longer needed
+239,2965,2024-07-12,Pro,monthly,99.0,Germany,11-50,2025-06-29,Missing features
+240,2865,2024-07-15,Pro,monthly,99.0,Brazil,11-50,2024-09-13,Switched to competitor
+241,2717,2024-07-16,Pro,monthly,99.0,United Kingdom,11-50,2025-05-05,Switched to competitor
+242,2859,2024-07-16,Business,monthly,249.0,Germany,51-200,,
+243,2922,2024-07-18,Business,monthly,249.0,France,200+,,
+244,2841,2024-07-19,Pro,annual,84.15,India,11-50,,
+245,2986,2024-07-20,Basic,monthly,39.0,United Kingdom,2-10,2025-11-12,Price
+246,3036,2024-07-20,Pro,monthly,99.0,United States,51-200,2025-03-16,Switched to competitor
+247,3066,2024-07-20,Basic,monthly,39.0,Australia,2-10,2025-01-13,Price
+248,2932,2024-07-21,Basic,monthly,39.0,Spain,Solo,,
+249,3020,2024-07-21,Pro,annual,84.15,Germany,11-50,,
+250,3115,2024-07-21,Business,annual,211.65,United States,11-50,,
+251,3188,2024-07-21,Basic,monthly,39.0,United States,Solo,,
+252,2945,2024-07-23,Business,monthly,249.0,United States,51-200,2024-08-13,No longer needed
+253,2977,2024-07-25,Business,annual,211.65,United Kingdom,11-50,,
+254,3087,2024-07-27,Pro,monthly,99.0,India,2-10,2024-08-21,Missing features
+255,3186,2024-07-27,Pro,monthly,99.0,United States,2-10,,
+256,3397,2024-07-28,Pro,monthly,99.0,United States,2-10,2024-09-25,Poor support
+257,3165,2024-07-29,Business,annual,211.65,United States,51-200,2025-07-18,Switched to competitor
+258,3333,2024-07-29,Basic,monthly,39.0,Australia,2-10,2025-01-24,No longer needed
+259,3347,2024-07-30,Pro,annual,84.15,United States,11-50,,
+260,3104,2024-07-31,Pro,annual,84.15,United States,2-10,,
+261,3156,2024-07-31,Pro,annual,84.15,Germany,2-10,,
+262,3199,2024-07-31,Pro,monthly,99.0,United States,2-10,2025-01-20,Price
+263,3118,2024-08-01,Pro,annual,84.15,United States,2-10,,
+264,3296,2024-08-01,Pro,monthly,99.0,United States,11-50,,
+265,3189,2024-08-02,Basic,monthly,39.0,United Kingdom,Solo,2024-10-29,Price
+266,3297,2024-08-02,Business,annual,211.65,United States,51-200,,
+267,3485,2024-08-03,Pro,monthly,99.0,United States,11-50,,
+268,3433,2024-08-04,Basic,monthly,39.0,United States,Solo,2025-02-21,No longer needed
+269,3219,2024-08-06,Pro,monthly,99.0,United States,11-50,2025-11-25,Poor support
+270,3338,2024-08-06,Basic,monthly,39.0,United States,2-10,2024-09-26,Poor support
+271,3438,2024-08-07,Pro,monthly,99.0,United States,2-10,2025-10-22,Missing features
+272,3236,2024-08-09,Pro,monthly,99.0,United Kingdom,2-10,,
+273,3334,2024-08-09,Pro,monthly,99.0,United States,11-50,,
+274,3352,2024-08-09,Business,annual,211.65,United States,200+,,
+275,3370,2024-08-09,Basic,monthly,39.0,Canada,Solo,2024-09-29,Price
+276,3344,2024-08-10,Basic,monthly,39.0,United States,2-10,2024-11-01,No longer needed
+277,3450,2024-08-10,Business,annual,211.65,India,51-200,,
+278,3301,2024-08-11,Business,annual,211.65,United States,51-200,2025-08-04,Switched to competitor
+279,3357,2024-08-11,Pro,monthly,99.0,Australia,51-200,2024-10-10,Switched to competitor
+280,3364,2024-08-11,Pro,monthly,99.0,United States,11-50,2024-10-07,Price
+281,3383,2024-08-11,Basic,annual,33.15,United States,Solo,,
+282,3423,2024-08-11,Pro,monthly,99.0,Spain,51-200,,
+283,3567,2024-08-11,Pro,monthly,99.0,United States,11-50,,
+284,3551,2024-08-12,Business,monthly,249.0,United States,11-50,,
+285,3414,2024-08-13,Pro,monthly,99.0,France,11-50,,
+286,3306,2024-08-14,Pro,annual,84.15,United States,11-50,,
+287,3479,2024-08-14,Business,annual,211.65,India,51-200,,
+288,3584,2024-08-15,Pro,annual,84.15,United States,2-10,,
+289,3471,2024-08-18,Business,monthly,249.0,Brazil,51-200,,
+290,3502,2024-08-18,Basic,monthly,39.0,United States,11-50,,
+291,3607,2024-08-20,Business,annual,211.65,United States,200+,,
+292,3588,2024-08-23,Pro,annual,84.15,Germany,2-10,,
+293,3455,2024-08-25,Business,annual,211.65,United States,51-200,,
+294,3759,2024-08-25,Business,annual,211.65,United States,200+,,
+295,3775,2024-08-25,Pro,monthly,99.0,,51-200,,
+296,3797,2024-08-26,Business,annual,211.65,United States,51-200,,
+297,3632,2024-08-27,Basic,monthly,39.0,Canada,Solo,2024-11-22,Price
+298,3646,2024-08-27,Basic,monthly,39.0,United States,Solo,2024-10-24,Switched to competitor
+299,3649,2024-08-27,Basic,monthly,39.0,United Kingdom,2-10,,
+300,3822,2024-08-27,Business,monthly,249.0,Germany,200+,,
+301,3713,2024-08-28,Basic,monthly,39.0,United States,Solo,2025-11-17,Price
+302,3769,2024-08-28,Business,annual,211.65,United States,51-200,2025-08-16,Price
+303,3501,2024-08-29,Basic,monthly,39.0,,2-10,2025-09-18,Business closed
+304,3613,2024-08-29,Pro,monthly,99.0,,11-50,2025-01-19,Switched to competitor
+305,3874,2024-08-29,Basic,monthly,39.0,United States,Solo,2024-09-20,Business closed
+306,3957,2024-08-30,Pro,monthly,99.0,United States,2-10,,
+307,3808,2024-09-02,Basic,monthly,39.0,United States,Solo,2025-03-26,Switched to competitor
+308,3943,2024-09-02,Basic,monthly,39.0,United States,2-10,2024-09-27,No longer needed
+309,3714,2024-09-03,Basic,monthly,39.0,Canada,Solo,2024-11-02,Price
+310,3837,2024-09-03,Basic,monthly,39.0,United States,Solo,2025-03-29,Price
+311,3877,2024-09-03,Pro,annual,84.15,United States,11-50,,
+312,3739,2024-09-04,Basic,monthly,39.0,Brazil,2-10,,
+313,3938,2024-09-05,Pro,annual,84.15,France,2-10,,
+314,3947,2024-09-05,Basic,annual,33.15,Spain,2-10,,
+315,3650,2024-09-06,Basic,monthly,39.0,United Kingdom,2-10,2024-11-01,Missing features
+316,3733,2024-09-07,Basic,monthly,39.0,United States,2-10,,
+317,3898,2024-09-07,Pro,monthly,99.0,United States,11-50,,
+318,3834,2024-09-08,Business,annual,211.65,United Kingdom,200+,,
+319,3945,2024-09-09,Pro,monthly,99.0,India,2-10,2024-12-07,Switched to competitor
+320,3989,2024-09-09,Pro,monthly,99.0,United States,2-10,2024-10-09,Business closed
+321,3818,2024-09-11,Pro,annual,84.15,Germany,2-10,,
+322,4046,2024-09-11,Business,annual,211.65,Germany,51-200,2025-09-05,Switched to competitor
+323,3927,2024-09-12,Basic,monthly,39.0,United States,2-10,2025-06-05,Missing features
+324,4134,2024-09-13,Basic,monthly,39.0,United States,11-50,2025-05-04,Price
+325,4098,2024-09-15,Basic,annual,33.15,United States,Solo,,
+326,3961,2024-09-18,Business,monthly,249.0,United States,11-50,,
+327,3983,2024-09-18,Basic,monthly,39.0,United Kingdom,Solo,2024-10-11,No longer needed
+328,4196,2024-09-19,Business,monthly,249.0,United States,11-50,2024-10-10,Missing features
+329,4215,2024-09-19,Pro,annual,84.15,United States,11-50,2025-09-06,Business closed
+330,4130,2024-09-21,Basic,monthly,39.0,United States,Solo,2024-10-16,Price
+331,4144,2024-09-22,Basic,monthly,39.0,United States,2-10,,
+332,4228,2024-09-22,Business,annual,211.65,United States,51-200,2025-09-09,Poor support
+333,4148,2024-09-23,Pro,monthly,99.0,United States,2-10,,
+334,4280,2024-09-23,Pro,annual,84.15,United States,11-50,,
+335,4209,2024-09-24,Pro,monthly,99.0,United States,51-200,,
+336,4231,2024-09-24,Basic,monthly,39.0,United States,Solo,2024-11-15,Price
+337,4230,2024-09-26,Pro,monthly,99.0,Brazil,11-50,2025-01-20,Missing features
+338,4160,2024-09-28,Basic,monthly,39.0,France,11-50,,
+339,4158,2024-09-29,Basic,monthly,39.0,India,Solo,2025-03-20,Switched to competitor
+340,4216,2024-09-29,Basic,monthly,39.0,United States,2-10,2025-02-18,Price
+341,4274,2024-09-29,Basic,monthly,39.0,United States,11-50,,
+342,4441,2024-10-02,Business,monthly,249.0,United States,11-50,2024-12-29,Switched to competitor
+343,4287,2024-10-03,Basic,monthly,39.0,,Solo,2024-12-25,No longer needed
+344,4312,2024-10-03,Basic,monthly,39.0,Germany,Solo,,
+345,4412,2024-10-03,Pro,annual,84.15,United States,11-50,,
+346,4437,2024-10-03,Business,monthly,249.0,Brazil,11-50,2024-10-25,Switched to competitor
+347,4448,2024-10-03,Basic,monthly,39.0,United States,2-10,2024-11-26,Price
+348,4413,2024-10-04,Pro,monthly,99.0,United States,11-50,2024-10-29,Switched to competitor
+349,4482,2024-10-05,Basic,monthly,39.0,United States,2-10,2025-01-02,Business closed
+350,4268,2024-10-06,Basic,annual,33.15,United Kingdom,Solo,,
+351,4431,2024-10-06,Business,monthly,249.0,United States,200+,,
+352,4460,2024-10-06,Basic,monthly,39.0,United States,2-10,,
+353,4314,2024-10-08,Pro,monthly,99.0,United Kingdom,11-50,2025-01-30,Poor support
+354,4396,2024-10-08,Business,monthly,249.0,United Kingdom,51-200,2024-11-03,Business closed
+355,4404,2024-10-08,Business,annual,211.65,France,11-50,,
+356,4483,2024-10-08,Basic,monthly,39.0,United States,Solo,2024-12-02,Price
+357,4516,2024-10-10,Pro,monthly,99.0,France,2-10,,
+358,4523,2024-10-11,Business,monthly,249.0,Australia,200+,,
+359,4629,2024-10-12,Basic,monthly,39.0,Germany,11-50,,
+360,4578,2024-10-14,Basic,monthly,39.0,United States,2-10,2024-11-07,Poor support
+361,4587,2024-10-15,Basic,annual,33.15,Canada,11-50,,
+362,4502,2024-10-16,Business,monthly,249.0,United States,200+,,
+363,4599,2024-10-16,Basic,monthly,39.0,Germany,2-10,2024-11-06,Price
+364,4526,2024-10-17,Pro,annual,84.15,United States,2-10,,
+365,4607,2024-10-20,Basic,monthly,39.0,United States,2-10,2024-11-14,Missing features
+366,4608,2024-10-20,Pro,annual,84.15,India,11-50,,
+367,4718,2024-10-20,Basic,monthly,39.0,United States,Solo,2025-04-10,Poor support
+368,4796,2024-10-20,Pro,monthly,99.0,United Kingdom,2-10,,
+369,4774,2024-10-21,Business,monthly,249.0,United States,11-50,,
+370,4706,2024-10-22,Pro,monthly,99.0,United States,2-10,,
+371,4804,2024-10-22,Basic,monthly,39.0,France,2-10,,
+372,4579,2024-10-25,Business,annual,211.65,Germany,51-200,2025-10-18,Business closed
+373,4628,2024-10-25,Pro,annual,84.15,United States,2-10,,
+374,4687,2024-10-25,Pro,annual,84.15,United States,11-50,,
+375,4800,2024-10-25,Pro,annual,84.15,Canada,11-50,,
+376,4816,2024-10-26,Pro,monthly,99.0,France,2-10,,
+377,4784,2024-10-27,Business,annual,211.65,Australia,11-50,,
+378,4929,2024-10-28,Basic,annual,33.15,United Kingdom,2-10,,
+379,4736,2024-10-29,Pro,monthly,99.0,India,51-200,,
+380,4842,2024-10-29,Pro,monthly,99.0,United Kingdom,11-50,,
+381,4745,2024-10-30,Basic,monthly,39.0,United States,Solo,2025-04-24,No longer needed
+382,4994,2024-10-30,Pro,monthly,99.0,United States,11-50,2025-08-21,Poor support
+383,5015,2024-10-30,Basic,monthly,39.0,United Kingdom,Solo,2025-03-25,Price
+384,4802,2024-10-31,Basic,monthly,39.0,France,Solo,2024-12-29,Price
+385,4857,2024-10-31,Basic,monthly,39.0,Spain,Solo,2024-12-23,No longer needed
+386,4901,2024-10-31,Business,annual,211.65,United States,51-200,,
+387,4930,2024-10-31,Pro,monthly,99.0,United States,11-50,2025-10-23,Switched to competitor
+388,4727,2024-11-01,Pro,monthly,99.0,Australia,2-10,,
+389,4828,2024-11-01,Basic,annual,33.15,India,2-10,,
+390,4963,2024-11-01,Business,annual,211.65,Australia,11-50,2025-10-24,Missing features
+391,4798,2024-11-02,Pro,monthly,99.0,United States,2-10,2025-07-30,No longer needed
+392,4759,2024-11-05,Pro,monthly,99.0,India,2-10,,
+393,5107,2024-11-05,Basic,monthly,39.0,Spain,2-10,2025-03-02,Poor support
+394,4954,2024-11-06,Basic,monthly,39.0,United States,Solo,,
+395,5059,2024-11-06,Pro,monthly,99.0,United States,51-200,2025-05-03,Switched to competitor
+396,4861,2024-11-08,Basic,annual,33.15,India,2-10,,
+397,5054,2024-11-08,Pro,annual,84.15,United Kingdom,2-10,,
+398,4986,2024-11-09,Pro,annual,84.15,United States,2-10,,
+399,4891,2024-11-10,Pro,monthly,99.0,Canada,11-50,2025-07-05,Missing features
+400,4843,2024-11-11,Pro,monthly,99.0,United States,11-50,,
+401,5018,2024-11-11,Pro,monthly,99.0,Germany,11-50,,
+402,5076,2024-11-11,Basic,monthly,39.0,India,Solo,2025-05-05,No longer needed
+403,5111,2024-11-11,Basic,monthly,39.0,Brazil,Solo,,
+404,4995,2024-11-12,Business,annual,211.65,Spain,200+,,
+405,5090,2024-11-12,Basic,monthly,39.0,United States,Solo,,
+406,5254,2024-11-12,Pro,monthly,99.0,,51-200,,
+407,4932,2024-11-13,Basic,monthly,39.0,,2-10,,
+408,5105,2024-11-13,Pro,monthly,99.0,United Kingdom,2-10,2024-12-08,Price
+409,5112,2024-11-13,Basic,monthly,39.0,United Kingdom,11-50,2025-06-09,Switched to competitor
+410,5159,2024-11-15,Pro,monthly,99.0,United Kingdom,11-50,2025-09-09,Switched to competitor
+411,5129,2024-11-16,Basic,monthly,39.0,Canada,2-10,2025-02-09,Switched to competitor
+412,5126,2024-11-17,Pro,monthly,99.0,United States,2-10,2025-10-05,No longer needed
+413,5322,2024-11-18,Pro,monthly,99.0,Brazil,11-50,,
+414,5181,2024-11-20,Business,monthly,249.0,India,11-50,,
+415,5172,2024-11-21,Basic,monthly,39.0,United States,11-50,2025-05-15,Missing features
+416,5184,2024-11-21,Basic,monthly,39.0,United States,Solo,2024-12-20,No longer needed
+417,5443,2024-11-22,Basic,monthly,39.0,United Kingdom,Solo,,
+418,5176,2024-11-23,Basic,annual,33.15,Australia,Solo,,
+419,5272,2024-11-23,Business,monthly,249.0,United States,51-200,,
+420,5274,2024-11-24,Basic,monthly,39.0,United States,Solo,2025-03-24,Poor support
+421,5338,2024-11-26,Pro,annual,84.15,United States,11-50,,
+422,5291,2024-11-27,Business,monthly,249.0,United States,11-50,,
+423,5439,2024-11-27,Pro,monthly,99.0,Canada,11-50,,
+424,5433,2024-11-29,Basic,monthly,39.0,Canada,Solo,2025-07-19,Poor support
+425,5463,2024-11-29,Pro,monthly,99.0,,11-50,2025-04-22,Missing features
+426,5520,2024-11-29,Business,monthly,249.0,Germany,51-200,,
+427,5431,2024-11-30,Basic,monthly,39.0,Australia,2-10,2024-12-23,Switched to competitor
+428,5510,2024-12-01,Basic,monthly,39.0,Canada,Solo,2025-06-21,No longer needed
+429,5398,2024-12-02,Pro,monthly,99.0,United States,11-50,,
+430,5514,2024-12-02,Basic,monthly,39.0,United States,2-10,2024-12-28,Price
+431,5508,2024-12-04,Pro,annual,84.15,United States,51-200,,
+432,5685,2024-12-04,Business,monthly,249.0,United Kingdom,11-50,,
+433,5332,2024-12-05,Basic,monthly,39.0,United States,Solo,2025-01-04,Missing features
+434,5350,2024-12-05,Pro,monthly,99.0,India,2-10,2025-06-01,Switched to competitor
+435,5506,2024-12-05,Business,monthly,249.0,United States,200+,,
+436,5533,2024-12-05,Pro,monthly,99.0,United States,11-50,2025-09-28,Poor support
+437,5639,2024-12-05,Pro,monthly,99.0,United States,11-50,2025-01-04,No longer needed
+438,5442,2024-12-06,Pro,monthly,99.0,Germany,2-10,,
+439,5594,2024-12-06,Business,monthly,249.0,United States,51-200,,
+440,5732,2024-12-06,Pro,monthly,99.0,United States,2-10,,
+441,5475,2024-12-07,Basic,annual,33.15,India,Solo,,
+442,5572,2024-12-07,Basic,monthly,39.0,Spain,2-10,,
+443,5427,2024-12-09,Business,annual,211.65,Brazil,51-200,,
+444,5434,2024-12-09,Business,monthly,249.0,United Kingdom,200+,,
+445,5595,2024-12-09,Business,annual,211.65,Canada,11-50,,
+446,5471,2024-12-10,Basic,annual,33.15,United States,2-10,,
+447,5466,2024-12-11,Pro,monthly,99.0,Canada,51-200,2025-03-10,No longer needed
+448,5498,2024-12-11,Basic,monthly,39.0,United States,Solo,,
+449,5634,2024-12-12,Pro,annual,84.15,United States,2-10,2025-12-03,Missing features
+450,5760,2024-12-12,Basic,annual,33.15,United States,2-10,,
+451,5644,2024-12-13,Pro,monthly,99.0,Australia,2-10,,
+452,5661,2024-12-13,Basic,monthly,39.0,United States,Solo,2025-01-07,Switched to competitor
+453,5860,2024-12-15,Basic,annual,33.15,United Kingdom,Solo,,
+454,5529,2024-12-16,Basic,annual,33.15,Australia,2-10,,
+455,5687,2024-12-16,Pro,monthly,99.0,Germany,2-10,2025-01-09,Switched to competitor
+456,5617,2024-12-17,Basic,monthly,39.0,Germany,2-10,,
+457,5658,2024-12-17,Pro,annual,84.15,France,11-50,,
+458,5757,2024-12-18,Basic,monthly,39.0,United Kingdom,2-10,2025-08-11,No longer needed
+459,5918,2024-12-19,Pro,monthly,99.0,United States,51-200,2025-02-09,Poor support
+460,5814,2024-12-20,Business,annual,211.65,United Kingdom,51-200,,
+461,5840,2024-12-20,Business,annual,211.65,United States,51-200,,
+462,5926,2024-12-20,Pro,monthly,99.0,United States,51-200,2025-10-09,Switched to competitor
+463,5971,2024-12-20,Basic,monthly,39.0,United States,Solo,2025-01-13,Missing features
+464,5994,2024-12-20,Basic,monthly,39.0,United States,2-10,2025-07-10,No longer needed
+465,5770,2024-12-21,Basic,monthly,39.0,United Kingdom,2-10,2025-08-09,Price
+466,5826,2024-12-21,Basic,monthly,39.0,United Kingdom,Solo,,
+467,5689,2024-12-22,Basic,monthly,39.0,France,Solo,,
+468,5745,2024-12-22,Pro,monthly,99.0,United States,51-200,,
+469,5905,2024-12-23,Basic,monthly,39.0,United States,2-10,2025-07-17,Poor support
+470,5992,2024-12-23,Basic,monthly,39.0,Germany,Solo,2025-02-14,Price
+471,5997,2024-12-24,Pro,annual,84.15,Canada,2-10,,
+472,5695,2024-12-25,Pro,monthly,99.0,India,51-200,2025-06-21,No longer needed
+473,5950,2024-12-25,Pro,monthly,99.0,United Kingdom,51-200,,
+474,5958,2024-12-26,Basic,monthly,39.0,Brazil,2-10,,
+475,5974,2024-12-27,Basic,monthly,39.0,United States,Solo,,
+476,5906,2024-12-28,Pro,monthly,99.0,France,2-10,,
+477,5916,2024-12-28,Business,monthly,249.0,Canada,11-50,,
+478,6023,2024-12-28,Basic,monthly,39.0,United States,Solo,,
+479,5816,2024-12-29,Basic,monthly,39.0,United States,Solo,,
+480,5937,2024-12-31,Business,annual,211.65,United States,51-200,,
+481,6041,2024-12-31,Pro,monthly,99.0,India,51-200,2025-04-30,Price
+482,6063,2024-12-31,Business,monthly,249.0,Australia,11-50,,
+483,6161,2024-12-31,Business,monthly,249.0,United States,11-50,,
+484,6108,2025-01-01,Pro,monthly,99.0,France,2-10,,
+485,5930,2025-01-02,Basic,monthly,39.0,Australia,Solo,,
+486,5900,2025-01-03,Pro,annual,84.15,United States,2-10,,
+487,5913,2025-01-03,Pro,monthly,99.0,United States,2-10,2025-06-24,Missing features
+488,6122,2025-01-04,Basic,monthly,39.0,United States,Solo,,
+489,5887,2025-01-05,Pro,annual,84.15,Australia,2-10,,
+490,6092,2025-01-05,Pro,annual,84.15,Germany,2-10,,
+491,6124,2025-01-05,Pro,monthly,99.0,United States,2-10,,
+492,6081,2025-01-06,Pro,monthly,99.0,Canada,2-10,,
+493,6008,2025-01-07,Pro,monthly,99.0,India,11-50,2025-04-29,Missing features
+494,6194,2025-01-07,Business,annual,211.65,United States,11-50,,
+495,6205,2025-01-07,Business,annual,211.65,United States,51-200,,
+496,6112,2025-01-08,Pro,monthly,99.0,United States,11-50,2025-07-06,Switched to competitor
+497,6197,2025-01-08,Pro,monthly,99.0,India,2-10,,
+498,6213,2025-01-09,Pro,monthly,99.0,Germany,11-50,2025-05-05,Missing features
+499,6356,2025-01-09,Pro,monthly,99.0,India,11-50,,
+500,6312,2025-01-10,Pro,annual,84.15,United States,2-10,,
+501,6141,2025-01-11,Basic,monthly,39.0,United Kingdom,11-50,2025-03-11,Missing features
+502,6420,2025-01-13,Basic,monthly,39.0,India,Solo,,
+503,6321,2025-01-15,Pro,monthly,99.0,Canada,2-10,,
+504,6147,2025-01-16,Pro,monthly,99.0,United States,51-200,,
+505,6301,2025-01-16,Basic,monthly,39.0,Canada,Solo,2025-03-08,Price
+506,6486,2025-01-16,Pro,monthly,99.0,United States,2-10,,
+507,6140,2025-01-17,Pro,annual,84.15,Germany,51-200,,
+508,6206,2025-01-17,Business,annual,211.65,United States,51-200,,
+509,6460,2025-01-18,Basic,monthly,39.0,,Solo,2025-02-17,Price
+510,6469,2025-01-18,Basic,monthly,39.0,United States,11-50,,
+511,6374,2025-01-19,Basic,monthly,39.0,United Kingdom,2-10,2025-09-09,Business closed
+512,6386,2025-01-19,Basic,monthly,39.0,Spain,11-50,,
+513,6474,2025-01-19,Pro,monthly,99.0,United States,2-10,2025-05-16,Switched to competitor
+514,6311,2025-01-20,Basic,monthly,39.0,United States,Solo,2025-07-12,Price
+515,6258,2025-01-21,Pro,annual,84.15,United States,11-50,,
+516,6289,2025-01-21,Basic,monthly,39.0,United Kingdom,Solo,2025-02-12,Missing features
+517,6348,2025-01-21,Basic,monthly,39.0,Germany,2-10,,
+518,6354,2025-01-22,Pro,annual,84.15,India,11-50,,
+519,6471,2025-01-22,Pro,monthly,99.0,United States,2-10,2025-04-15,No longer needed
+520,6478,2025-01-23,Pro,monthly,99.0,Canada,2-10,,
+521,6435,2025-01-24,Pro,monthly,99.0,,11-50,,
+522,6497,2025-01-24,Basic,monthly,39.0,United States,Solo,2025-05-23,Switched to competitor
+523,6454,2025-01-27,Basic,monthly,39.0,Germany,11-50,2025-02-19,Missing features
+524,6461,2025-01-27,Business,annual,211.65,United States,11-50,,
+525,6562,2025-01-28,Basic,monthly,39.0,United States,Solo,2025-03-27,Switched to competitor
+526,6721,2025-01-28,Basic,monthly,39.0,,Solo,2025-06-27,Missing features
+527,6529,2025-01-29,Business,annual,211.65,,51-200,,
+528,6606,2025-01-29,Basic,annual,33.15,United Kingdom,Solo,,
+529,6661,2025-01-29,Basic,monthly,39.0,United Kingdom,2-10,2025-10-23,Missing features
+530,6473,2025-01-30,Basic,annual,33.15,United States,2-10,,
+531,6652,2025-01-30,Basic,annual,33.15,India,Solo,,
+532,6537,2025-01-31,Pro,annual,84.15,United Kingdom,2-10,,
+533,6539,2025-01-31,Basic,monthly,39.0,United States,Solo,2025-03-24,Switched to competitor
+534,6561,2025-01-31,Basic,annual,33.15,United States,11-50,,
+535,6567,2025-01-31,Basic,monthly,39.0,Canada,2-10,2025-02-26,Missing features
+536,6728,2025-02-01,Pro,monthly,99.0,Germany,2-10,,
+537,6623,2025-02-02,Business,annual,211.65,India,11-50,,
+538,6727,2025-02-02,Basic,monthly,39.0,United Kingdom,Solo,,
+539,6522,2025-02-03,Basic,monthly,39.0,United States,Solo,,
+540,6557,2025-02-04,Pro,monthly,99.0,United States,2-10,2025-07-03,Poor support
+541,6683,2025-02-06,Business,annual,211.65,,51-200,,
+542,6607,2025-02-07,Basic,monthly,39.0,United States,11-50,2025-09-30,Price
+543,6800,2025-02-08,Basic,monthly,39.0,Brazil,2-10,2025-04-08,Missing features
+544,6938,2025-02-08,Pro,monthly,99.0,United States,51-200,2025-11-02,No longer needed
+545,6826,2025-02-09,Pro,monthly,99.0,United States,51-200,2025-10-01,Missing features
+546,6808,2025-02-10,Pro,monthly,99.0,United States,2-10,2025-03-03,Poor support
+547,6946,2025-02-10,Pro,monthly,99.0,Germany,2-10,,
+548,6969,2025-02-10,Pro,annual,84.15,United States,51-200,,
+549,6765,2025-02-11,Basic,monthly,39.0,Germany,2-10,2025-03-05,Missing features
+550,6855,2025-02-12,Basic,monthly,39.0,United States,Solo,2025-03-07,No longer needed
+551,6842,2025-02-13,Pro,monthly,99.0,United Kingdom,11-50,,
+552,6807,2025-02-14,Basic,annual,33.15,,Solo,,
+553,6823,2025-02-14,Basic,monthly,39.0,United States,2-10,2025-04-12,Price
+554,6861,2025-02-14,Pro,monthly,99.0,United States,51-200,,
+555,6965,2025-02-14,Basic,monthly,39.0,,Solo,2025-03-08,No longer needed
+556,6834,2025-02-15,Pro,annual,84.15,United States,11-50,,
+557,6884,2025-02-15,Pro,monthly,99.0,United Kingdom,11-50,2025-05-14,No longer needed
+558,7013,2025-02-15,Pro,monthly,99.0,United Kingdom,51-200,2025-05-07,Price
+559,6803,2025-02-17,Pro,monthly,99.0,United States,2-10,2025-03-17,Price
+560,6816,2025-02-17,Business,annual,211.65,United States,51-200,,
+561,7029,2025-02-17,Business,monthly,249.0,United States,51-200,,
+562,6838,2025-02-18,Pro,annual,84.15,United States,2-10,,
+563,6985,2025-02-18,Basic,monthly,39.0,United States,2-10,2025-07-12,Price
+564,6986,2025-02-19,Pro,annual,84.15,United States,11-50,,
+565,7070,2025-02-19,Pro,monthly,99.0,France,51-200,2025-04-13,Missing features
+566,6967,2025-02-20,Basic,monthly,39.0,Australia,2-10,,
+567,7093,2025-02-20,Business,annual,211.65,United States,11-50,,
+568,7133,2025-02-20,Basic,monthly,39.0,Spain,2-10,2025-03-15,No longer needed
+569,7090,2025-02-21,Basic,monthly,39.0,Canada,2-10,,
+570,7150,2025-02-22,Basic,monthly,39.0,India,11-50,,
+571,7027,2025-02-24,Basic,monthly,39.0,United States,11-50,,
+572,7091,2025-02-24,Business,monthly,249.0,United States,51-200,2025-12-19,Missing features
+573,7247,2025-02-24,Pro,monthly,99.0,United Kingdom,2-10,2025-08-23,Missing features
+574,7137,2025-02-25,Business,monthly,249.0,United Kingdom,51-200,,
+575,6975,2025-02-26,Pro,monthly,99.0,United States,2-10,,
+576,7181,2025-02-26,Business,monthly,249.0,Spain,11-50,,
+577,6951,2025-02-27,Basic,monthly,39.0,India,2-10,,
+578,7066,2025-02-27,Business,annual,211.65,India,51-200,,
+579,7220,2025-02-27,Basic,monthly,39.0,United Kingdom,Solo,2025-12-18,No longer needed
+580,7244,2025-02-28,Pro,monthly,99.0,Germany,11-50,,
+581,7358,2025-02-28,Basic,annual,33.15,United Kingdom,Solo,,
+582,7008,2025-03-03,Business,annual,211.65,Germany,11-50,,
+583,7259,2025-03-04,Pro,monthly,99.0,United States,2-10,,
+584,7184,2025-03-05,Basic,annual,33.15,Canada,2-10,,
+585,7191,2025-03-05,Pro,monthly,99.0,United States,11-50,,
+586,7359,2025-03-05,Business,annual,211.65,United States,51-200,,
+587,7146,2025-03-07,Basic,monthly,39.0,United States,Solo,2025-06-26,Business closed
+588,7226,2025-03-07,Pro,annual,84.15,United States,2-10,,
+589,7439,2025-03-07,Basic,monthly,39.0,Canada,2-10,,
+590,7497,2025-03-07,Basic,monthly,39.0,Canada,Solo,2025-04-01,Price
+591,7117,2025-03-08,Business,monthly,249.0,United Kingdom,11-50,2025-08-27,Poor support
+592,7368,2025-03-09,Pro,monthly,99.0,United Kingdom,2-10,,
+593,7384,2025-03-09,Basic,monthly,39.0,Canada,2-10,2025-08-27,Price
+594,7307,2025-03-10,Basic,annual,33.15,Australia,2-10,,
+595,7455,2025-03-10,Pro,monthly,99.0,United States,51-200,,
+596,7587,2025-03-10,Basic,monthly,39.0,United States,2-10,2025-06-03,Price
+597,7382,2025-03-11,Pro,annual,84.15,United States,11-50,,
+598,7453,2025-03-12,Business,annual,211.65,United Kingdom,11-50,,
+599,7570,2025-03-13,Business,monthly,249.0,Spain,51-200,,
+600,7400,2025-03-14,Basic,monthly,39.0,United States,11-50,,
+601,7681,2025-03-14,Pro,monthly,99.0,France,2-10,2025-07-11,Business closed
+602,7562,2025-03-15,Basic,annual,33.15,United States,Solo,,
+603,7636,2025-03-15,Pro,monthly,99.0,United States,51-200,2025-10-10,Switched to competitor
+604,7395,2025-03-16,Basic,monthly,39.0,Australia,2-10,2025-12-10,Poor support
+605,7468,2025-03-17,Basic,monthly,39.0,United States,11-50,,
+606,7725,2025-03-18,Pro,annual,84.15,France,2-10,,
+607,7589,2025-03-19,Pro,annual,84.15,Spain,2-10,,
+608,7630,2025-03-20,Business,annual,211.65,United States,51-200,,
+609,7644,2025-03-21,Basic,monthly,39.0,United States,Solo,,
+610,7731,2025-03-21,Business,monthly,249.0,Germany,200+,2025-09-14,Business closed
+611,7736,2025-03-21,Business,monthly,249.0,India,51-200,,
+612,7702,2025-03-22,Pro,monthly,99.0,United States,11-50,,
+613,7538,2025-03-23,Pro,monthly,99.0,Australia,11-50,2025-07-18,Poor support
+614,7660,2025-03-24,Pro,monthly,99.0,United States,11-50,,
+615,7574,2025-03-25,Basic,monthly,39.0,France,Solo,,
+616,7845,2025-03-25,Pro,annual,84.15,United States,2-10,,
+617,7512,2025-03-26,Pro,monthly,99.0,United States,11-50,,
+618,7518,2025-03-26,Business,monthly,249.0,Spain,200+,2025-06-22,Price
+619,7698,2025-03-26,Basic,monthly,39.0,,11-50,,
+620,7714,2025-03-26,Pro,monthly,99.0,,11-50,2025-04-20,Price
+621,7898,2025-03-26,Pro,monthly,99.0,India,51-200,,
+622,7520,2025-03-27,Basic,monthly,39.0,United States,Solo,,
+623,7685,2025-03-27,Pro,annual,84.15,United States,51-200,,
+624,7691,2025-03-28,Pro,monthly,99.0,United States,51-200,,
+625,7711,2025-03-28,Pro,monthly,99.0,United States,2-10,,
+626,7742,2025-03-28,Pro,annual,84.15,United States,51-200,,
+627,7836,2025-03-28,Basic,monthly,39.0,United States,Solo,2025-06-19,Price
+628,7679,2025-03-29,Business,annual,211.65,Germany,51-200,,
+629,7776,2025-03-29,Pro,monthly,99.0,Germany,51-200,,
+630,7933,2025-03-29,Basic,annual,33.15,Spain,Solo,,
+631,7659,2025-03-30,Basic,monthly,39.0,United States,2-10,,
+632,7874,2025-03-30,Basic,monthly,39.0,United States,2-10,,
+633,7766,2025-04-02,Basic,annual,33.15,Canada,Solo,,
+634,7867,2025-04-02,Pro,annual,84.15,Australia,2-10,,
+635,8041,2025-04-02,Pro,annual,84.15,United States,11-50,,
+636,7838,2025-04-03,Pro,monthly,99.0,India,11-50,,
+637,8003,2025-04-04,Basic,monthly,39.0,United States,Solo,,
+638,8036,2025-04-05,Pro,annual,84.15,United Kingdom,2-10,,
+639,7807,2025-04-07,Basic,monthly,39.0,United Kingdom,Solo,,
+640,8091,2025-04-07,Basic,monthly,39.0,France,Solo,,
+641,7999,2025-04-08,Basic,monthly,39.0,United States,2-10,2025-12-02,Missing features
+642,8021,2025-04-08,Pro,monthly,99.0,France,51-200,2025-10-29,Switched to competitor
+643,7942,2025-04-10,Pro,monthly,99.0,France,11-50,,
+644,7984,2025-04-11,Basic,annual,33.15,United States,Solo,,
+645,8072,2025-04-11,Pro,monthly,99.0,United Kingdom,11-50,,
+646,8005,2025-04-12,Pro,annual,84.15,United States,2-10,,
+647,8105,2025-04-12,Pro,annual,84.15,United States,11-50,,
+648,8166,2025-04-12,Basic,monthly,39.0,United States,11-50,2025-06-06,Price
+649,7896,2025-04-13,Business,annual,211.65,,51-200,,
+650,7969,2025-04-13,Basic,monthly,39.0,Australia,11-50,,
+651,8257,2025-04-13,Basic,monthly,39.0,Canada,Solo,,
+652,8133,2025-04-15,Pro,annual,84.15,United States,2-10,,
+653,8295,2025-04-15,Pro,monthly,99.0,United States,51-200,,
+654,7972,2025-04-16,Basic,monthly,39.0,United States,2-10,,
+655,8155,2025-04-17,Pro,monthly,99.0,Brazil,2-10,,
+656,8039,2025-04-19,Basic,annual,33.15,Germany,Solo,,
+657,8159,2025-04-19,Pro,monthly,99.0,France,11-50,,
+658,8207,2025-04-19,Pro,monthly,99.0,,11-50,,
+659,8240,2025-04-19,Business,annual,211.65,United States,11-50,,
+660,8178,2025-04-20,Basic,monthly,39.0,India,Solo,,
+661,8170,2025-04-21,Basic,annual,33.15,India,Solo,,
+662,8307,2025-04-21,Business,monthly,249.0,Germany,51-200,,
+663,8211,2025-04-22,Basic,monthly,39.0,United States,Solo,2025-05-20,Poor support
+664,8144,2025-04-23,Business,annual,211.65,United Kingdom,51-200,,
+665,8344,2025-04-23,Basic,monthly,39.0,Spain,2-10,2025-08-18,Price
+666,8329,2025-04-24,Pro,monthly,99.0,United Kingdom,51-200,,
+667,8359,2025-04-24,Pro,monthly,99.0,Germany,2-10,2025-06-14,No longer needed
+668,8369,2025-04-24,Basic,monthly,39.0,United States,11-50,,
+669,8163,2025-04-26,Pro,monthly,99.0,United States,11-50,,
+670,8382,2025-04-26,Business,monthly,249.0,United Kingdom,200+,,
+671,8488,2025-04-27,Basic,monthly,39.0,United States,2-10,2025-07-26,Switched to competitor
+672,8347,2025-04-29,Business,monthly,249.0,Canada,11-50,,
+673,8343,2025-04-30,Pro,annual,84.15,United States,2-10,,
+674,8378,2025-04-30,Pro,monthly,99.0,United States,11-50,,
+675,8496,2025-04-30,Basic,monthly,39.0,India,2-10,2025-05-30,Business closed
+676,8349,2025-05-01,Business,monthly,249.0,India,11-50,,
+677,8400,2025-05-01,Business,monthly,249.0,United Kingdom,200+,2025-06-22,Price
+678,8655,2025-05-01,Pro,monthly,99.0,Germany,51-200,,
+679,8405,2025-05-02,Basic,monthly,39.0,Brazil,Solo,2025-06-01,Price
+680,8572,2025-05-02,Basic,monthly,39.0,United States,11-50,,
+681,8413,2025-05-03,Pro,annual,84.15,Spain,2-10,,
+682,8420,2025-05-03,Pro,monthly,99.0,Brazil,2-10,2025-05-25,No longer needed
+683,8446,2025-05-03,Pro,monthly,99.0,United States,2-10,,
+684,8469,2025-05-05,Business,annual,211.65,United States,51-200,,
+685,8544,2025-05-05,Business,annual,211.65,United States,51-200,,
+686,8353,2025-05-07,Basic,monthly,39.0,Australia,Solo,,
+687,8506,2025-05-08,Basic,monthly,39.0,United States,2-10,2025-10-03,Poor support
+688,8587,2025-05-09,Basic,annual,33.15,India,Solo,,
+689,8618,2025-05-09,Basic,annual,33.15,India,Solo,,
+690,8628,2025-05-09,Pro,monthly,99.0,United States,11-50,,
+691,8673,2025-05-09,Basic,monthly,39.0,Germany,Solo,2025-06-01,Poor support
+692,8726,2025-05-10,Pro,monthly,99.0,United States,2-10,,
+693,8556,2025-05-11,Pro,annual,84.15,United States,2-10,,
+694,8619,2025-05-11,Business,annual,211.65,Brazil,51-200,,
+695,8779,2025-05-12,Basic,monthly,39.0,Australia,2-10,2025-10-03,No longer needed
+696,8666,2025-05-13,Basic,monthly,39.0,India,Solo,2025-06-06,Missing features
+697,8817,2025-05-13,Basic,annual,33.15,France,Solo,,
+698,8567,2025-05-15,Pro,monthly,99.0,United Kingdom,11-50,2025-08-07,Missing features
+699,8739,2025-05-15,Pro,monthly,99.0,United Kingdom,11-50,,
+700,8745,2025-05-15,Pro,monthly,99.0,Australia,2-10,2025-09-06,Poor support
+701,8753,2025-05-16,Basic,monthly,39.0,Australia,Solo,,
+702,8644,2025-05-18,Pro,annual,84.15,United States,51-200,,
+703,8689,2025-05-19,Pro,monthly,99.0,Canada,11-50,2025-06-16,No longer needed
+704,8897,2025-05-19,Business,monthly,249.0,Canada,200+,,
+705,9114,2025-05-20,Basic,monthly,39.0,United Kingdom,Solo,2025-10-09,Switched to competitor
+706,8735,2025-05-22,Basic,monthly,39.0,United Kingdom,2-10,2025-06-16,Switched to competitor
+707,8980,2025-05-22,Basic,monthly,39.0,India,Solo,2025-06-15,Business closed
+708,8989,2025-05-22,Business,annual,211.65,United States,11-50,,
+709,9052,2025-05-22,Business,annual,211.65,United States,51-200,,
+710,8955,2025-05-23,Basic,monthly,39.0,United States,11-50,2025-07-20,Switched to competitor
+711,8960,2025-05-23,Business,monthly,249.0,India,51-200,2025-07-18,Business closed
+712,8862,2025-05-25,Pro,monthly,99.0,United States,11-50,2025-08-22,Business closed
+713,8922,2025-05-25,Basic,monthly,39.0,Canada,2-10,2025-06-22,Business closed
+714,8982,2025-05-25,Business,annual,211.65,,11-50,,
+715,9107,2025-05-25,Basic,monthly,39.0,United Kingdom,Solo,2025-09-18,Price
+716,8812,2025-05-26,Business,monthly,249.0,United States,51-200,2025-11-22,Missing features
+717,8869,2025-05-26,Pro,monthly,99.0,Spain,2-10,,
+718,8956,2025-05-26,Pro,monthly,99.0,United Kingdom,11-50,2025-12-14,Business closed
+719,9021,2025-05-26,Pro,monthly,99.0,United States,2-10,,
+720,8759,2025-05-27,Basic,monthly,39.0,United States,2-10,2025-11-19,Price
+721,8891,2025-05-27,Basic,annual,33.15,Germany,11-50,,
+722,8901,2025-05-27,Pro,annual,84.15,France,11-50,,
+723,8958,2025-05-27,Pro,monthly,99.0,,51-200,2025-07-25,Switched to competitor
+724,9086,2025-05-27,Pro,monthly,99.0,Canada,51-200,,
+725,9105,2025-05-28,Pro,monthly,99.0,United States,11-50,,
+726,9118,2025-05-29,Basic,monthly,39.0,Germany,11-50,,
+727,8976,2025-05-30,Basic,monthly,39.0,Brazil,Solo,,
+728,9162,2025-05-30,Pro,monthly,99.0,France,2-10,,
+729,9246,2025-05-30,Basic,monthly,39.0,,2-10,,
+730,8986,2025-05-31,Pro,monthly,99.0,United States,51-200,,
+731,9224,2025-06-01,Basic,monthly,39.0,United States,2-10,,
+732,9388,2025-06-01,Basic,monthly,39.0,Germany,Solo,2025-09-24,No longer needed
+733,9081,2025-06-02,Basic,monthly,39.0,United States,2-10,,
+734,9290,2025-06-02,Pro,monthly,99.0,United Kingdom,2-10,,
+735,9297,2025-06-02,Pro,monthly,99.0,United States,11-50,,
+736,9156,2025-06-03,Pro,annual,84.15,India,2-10,,
+737,9142,2025-06-04,Basic,monthly,39.0,Spain,2-10,2025-08-26,Switched to competitor
+738,9087,2025-06-05,Basic,monthly,39.0,United States,Solo,,
+739,9198,2025-06-05,Pro,monthly,99.0,Germany,2-10,,
+740,9154,2025-06-06,Basic,monthly,39.0,United States,Solo,2025-06-28,No longer needed
+741,9220,2025-06-06,Basic,annual,33.15,United States,2-10,,
+742,9431,2025-06-07,Basic,monthly,39.0,United States,11-50,2025-11-03,Switched to competitor
+743,9344,2025-06-11,Basic,monthly,39.0,India,2-10,2025-08-06,Price
+744,9441,2025-06-11,Pro,monthly,99.0,United Kingdom,11-50,2025-10-02,Price
+745,9092,2025-06-12,Basic,monthly,39.0,Canada,2-10,,
+746,9279,2025-06-12,Basic,annual,33.15,Australia,Solo,,
+747,9427,2025-06-12,Pro,monthly,99.0,United States,51-200,,
+748,9226,2025-06-15,Basic,annual,33.15,Brazil,2-10,,
+749,9287,2025-06-15,Basic,monthly,39.0,United States,Solo,,
+750,9314,2025-06-15,Pro,annual,84.15,Brazil,2-10,,
+751,9460,2025-06-15,Pro,monthly,99.0,United States,51-200,2025-11-06,Price
+752,9289,2025-06-16,Basic,annual,33.15,India,11-50,,
+753,9292,2025-06-16,Pro,monthly,99.0,United States,11-50,,
+754,9426,2025-06-16,Business,monthly,249.0,India,11-50,,
+755,9453,2025-06-17,Basic,monthly,39.0,India,2-10,,
+756,9495,2025-06-17,Basic,monthly,39.0,United States,2-10,2025-08-11,Switched to competitor
+757,9589,2025-06-18,Pro,monthly,99.0,United States,2-10,,
+758,9523,2025-06-19,Basic,monthly,39.0,Germany,11-50,2025-07-18,Price
+759,9552,2025-06-19,Basic,monthly,39.0,United States,2-10,2025-07-11,No longer needed
+760,9534,2025-06-20,Pro,monthly,99.0,United States,11-50,2025-12-17,Business closed
+761,9424,2025-06-21,Basic,monthly,39.0,Australia,Solo,,
+762,9522,2025-06-21,Basic,monthly,39.0,Spain,Solo,2025-11-17,No longer needed
+763,9597,2025-06-21,Pro,annual,84.15,France,2-10,,
+764,9759,2025-06-21,Pro,monthly,99.0,France,51-200,,
+765,9810,2025-06-21,Basic,monthly,39.0,Canada,2-10,,
+766,9349,2025-06-22,Basic,monthly,39.0,Australia,2-10,,
+767,9446,2025-06-23,Pro,monthly,99.0,France,2-10,2025-09-20,No longer needed
+768,9488,2025-06-23,Business,annual,211.65,Canada,200+,,
+769,9526,2025-06-23,Business,monthly,249.0,United Kingdom,11-50,,
+770,9487,2025-06-24,Pro,monthly,99.0,Germany,11-50,,
+771,9607,2025-06-25,Pro,monthly,99.0,United States,11-50,,
+772,9543,2025-06-26,Basic,monthly,39.0,United States,2-10,,
+773,9656,2025-06-26,Basic,annual,33.15,United Kingdom,2-10,,
+774,9698,2025-06-26,Pro,monthly,99.0,United States,2-10,,
+775,9779,2025-06-27,Business,annual,211.65,Germany,11-50,,
+776,9536,2025-06-28,Pro,annual,84.15,United Kingdom,11-50,,
+777,9659,2025-06-28,Basic,monthly,39.0,Canada,2-10,2025-08-20,Switched to competitor
+778,9643,2025-06-29,Business,annual,211.65,United States,51-200,,
+779,9867,2025-06-29,Basic,monthly,39.0,France,2-10,2025-07-29,Switched to competitor
+780,9676,2025-07-01,Pro,monthly,99.0,United States,2-10,2025-11-24,Switched to competitor
+781,9855,2025-07-01,Pro,monthly,99.0,Brazil,11-50,,
+782,9590,2025-07-02,Business,monthly,249.0,United Kingdom,51-200,,
+783,9686,2025-07-02,Pro,monthly,99.0,United Kingdom,2-10,2025-09-28,No longer needed
+784,9755,2025-07-02,Pro,monthly,99.0,India,11-50,,
+785,9517,2025-07-03,Pro,monthly,99.0,United Kingdom,11-50,2025-09-29,Missing features
+786,9787,2025-07-03,Pro,monthly,99.0,Germany,2-10,,
+787,9989,2025-07-03,Basic,monthly,39.0,United States,Solo,2025-08-02,Missing features
+788,9901,2025-07-04,Pro,annual,84.15,Australia,11-50,,
+789,9965,2025-07-04,Basic,monthly,39.0,Germany,2-10,2025-09-26,Switched to competitor
+790,9749,2025-07-06,Basic,monthly,39.0,Canada,2-10,2025-07-28,No longer needed
+791,9997,2025-07-06,Basic,monthly,39.0,Germany,Solo,,
+792,9942,2025-07-07,Basic,monthly,39.0,Australia,Solo,,
+793,9864,2025-07-08,Basic,monthly,39.0,Spain,Solo,,
+794,9994,2025-07-08,Business,monthly,249.0,United States,51-200,,
+795,9889,2025-07-09,Basic,monthly,39.0,United States,2-10,2025-08-03,No longer needed
+796,10033,2025-07-09,Basic,annual,33.15,United States,2-10,,
+797,10096,2025-07-09,Business,annual,211.65,United States,11-50,,
+798,10090,2025-07-10,Basic,monthly,39.0,United States,2-10,,
+799,10105,2025-07-10,Basic,monthly,39.0,United States,Solo,2025-07-31,Missing features
+800,9740,2025-07-12,Pro,monthly,99.0,India,2-10,,
+801,9841,2025-07-13,Pro,monthly,99.0,United States,11-50,2025-11-06,Switched to competitor
+802,10162,2025-07-13,Pro,annual,84.15,United States,11-50,,
+803,10002,2025-07-16,Basic,monthly,39.0,United Kingdom,Solo,2025-10-07,No longer needed
+804,10074,2025-07-17,Basic,annual,33.15,United States,2-10,,
+805,10177,2025-07-17,Business,monthly,249.0,United States,51-200,,
+806,10220,2025-07-17,Pro,annual,84.15,United States,2-10,,
+807,9977,2025-07-18,Pro,monthly,99.0,United States,51-200,,
+808,10108,2025-07-19,Basic,annual,33.15,United Kingdom,2-10,,
+809,10294,2025-07-20,Basic,annual,33.15,Canada,Solo,,
+810,9993,2025-07-21,Business,monthly,249.0,Canada,51-200,2025-11-10,Switched to competitor
+811,10147,2025-07-22,Basic,monthly,39.0,Australia,Solo,,
+812,10125,2025-07-23,Pro,monthly,99.0,United States,11-50,,
+813,10249,2025-07-24,Basic,monthly,39.0,United States,Solo,,
+814,10331,2025-07-25,Business,monthly,249.0,India,51-200,,
+815,10188,2025-07-27,Basic,annual,33.15,United Kingdom,Solo,,
+816,10349,2025-07-29,Business,annual,211.65,United Kingdom,200+,,
+817,10450,2025-07-29,Basic,monthly,39.0,Canada,Solo,,
+818,10465,2025-07-29,Basic,monthly,39.0,,11-50,2025-09-27,Business closed
+819,10673,2025-07-29,Pro,monthly,99.0,United States,2-10,,
+820,10330,2025-07-30,Basic,monthly,39.0,Germany,Solo,,
+821,10321,2025-08-02,Pro,monthly,99.0,United Kingdom,11-50,,
+822,10488,2025-08-02,Pro,monthly,99.0,India,11-50,2025-08-30,No longer needed
+823,10636,2025-08-02,Basic,monthly,39.0,Australia,Solo,,
+824,10668,2025-08-02,Pro,annual,84.15,United States,2-10,,
+825,10455,2025-08-03,Pro,annual,84.15,Australia,51-200,,
+826,10406,2025-08-04,Pro,monthly,99.0,United States,11-50,2025-11-24,Switched to competitor
+827,10497,2025-08-04,Pro,monthly,99.0,United Kingdom,11-50,2025-10-29,Switched to competitor
+828,10315,2025-08-05,Pro,monthly,99.0,Canada,51-200,,
+829,10582,2025-08-06,Basic,monthly,39.0,Brazil,2-10,,
+830,10570,2025-08-07,Business,annual,211.65,United States,51-200,,
+831,10614,2025-08-07,Basic,monthly,39.0,Germany,Solo,2025-10-28,Price
+832,10645,2025-08-09,Business,annual,211.65,United States,51-200,,
+833,10656,2025-08-09,Pro,monthly,99.0,United States,2-10,,
+834,10411,2025-08-10,Business,annual,211.65,United Kingdom,200+,,
+835,10728,2025-08-10,Basic,annual,33.15,Canada,Solo,,
+836,10640,2025-08-11,Business,annual,211.65,Spain,200+,,
+837,10722,2025-08-11,Pro,monthly,99.0,United States,51-200,,
+838,10820,2025-08-11,Pro,annual,84.15,,51-200,,
+839,10471,2025-08-12,Basic,annual,33.15,Germany,2-10,,
+840,10766,2025-08-12,Basic,annual,33.15,United States,2-10,,
+841,10828,2025-08-13,Basic,annual,33.15,Canada,Solo,,
+842,10535,2025-08-14,Pro,monthly,99.0,United States,11-50,,
+843,10660,2025-08-14,Pro,monthly,99.0,Australia,11-50,,
+844,10590,2025-08-15,Pro,monthly,99.0,United States,11-50,,
+845,10650,2025-08-15,Pro,monthly,99.0,United Kingdom,11-50,,
+846,10943,2025-08-15,Pro,annual,84.15,India,51-200,,
+847,10573,2025-08-16,Basic,monthly,39.0,Germany,2-10,,
+848,10594,2025-08-16,Basic,monthly,39.0,Australia,Solo,,
+849,10635,2025-08-16,Basic,monthly,39.0,Australia,Solo,,
+850,10693,2025-08-16,Basic,monthly,39.0,Germany,11-50,,
+851,10647,2025-08-17,Business,annual,211.65,Canada,51-200,,
+852,10676,2025-08-17,Basic,monthly,39.0,Australia,2-10,,
+853,10791,2025-08-17,Business,monthly,249.0,France,51-200,,
+854,10797,2025-08-18,Pro,monthly,99.0,India,51-200,,
+855,10868,2025-08-18,Pro,monthly,99.0,,11-50,2025-10-10,Price
+856,10620,2025-08-20,Basic,annual,33.15,United States,2-10,,
+857,10704,2025-08-20,Business,monthly,249.0,Brazil,11-50,,
+858,10819,2025-08-21,Basic,monthly,39.0,United States,Solo,,
+859,10924,2025-08-21,Business,annual,211.65,United States,11-50,,
+860,10906,2025-08-23,Pro,monthly,99.0,Germany,11-50,,
+861,10934,2025-08-24,Basic,annual,33.15,,2-10,,
+862,10822,2025-08-25,Basic,monthly,39.0,United Kingdom,2-10,2025-09-16,Missing features
+863,10977,2025-08-26,Business,monthly,249.0,Germany,51-200,,
+864,11026,2025-08-26,Basic,monthly,39.0,,Solo,2025-10-20,Price
+865,11039,2025-08-27,Pro,annual,84.15,Germany,2-10,,
+866,10978,2025-08-28,Business,annual,211.65,United States,200+,,
+867,11145,2025-08-28,Basic,monthly,39.0,United States,2-10,,
+868,11042,2025-08-29,Pro,annual,84.15,,11-50,,
+869,11128,2025-08-29,Basic,annual,33.15,United States,2-10,,
+870,11037,2025-08-30,Pro,monthly,99.0,Spain,51-200,,
+871,11068,2025-08-30,Basic,annual,33.15,Canada,Solo,,
+872,11073,2025-08-30,Basic,monthly,39.0,United States,2-10,2025-09-27,Switched to competitor
+873,11274,2025-08-30,Basic,monthly,39.0,United Kingdom,11-50,,
+874,10894,2025-08-31,Pro,monthly,99.0,Germany,51-200,,
+875,10991,2025-08-31,Basic,monthly,39.0,Canada,Solo,,
+876,11077,2025-08-31,Basic,monthly,39.0,India,Solo,,
+877,11227,2025-09-01,Basic,monthly,39.0,Germany,Solo,2025-10-25,No longer needed
+878,11204,2025-09-02,Basic,monthly,39.0,United States,Solo,,
+879,11260,2025-09-02,Basic,monthly,39.0,,Solo,2025-11-26,Price
+880,11290,2025-09-02,Basic,annual,33.15,Germany,11-50,,
+881,11029,2025-09-03,Basic,monthly,39.0,Australia,2-10,,
+882,11167,2025-09-04,Basic,monthly,39.0,Germany,2-10,,
+883,11082,2025-09-05,Pro,annual,84.15,Germany,11-50,,
+884,11120,2025-09-05,Basic,monthly,39.0,Germany,Solo,,
+885,11320,2025-09-05,Basic,annual,33.15,United Kingdom,Solo,,
+886,11421,2025-09-05,Pro,monthly,99.0,United States,2-10,,
+887,11152,2025-09-06,Pro,annual,84.15,United States,2-10,,
+888,11264,2025-09-06,Basic,monthly,39.0,Canada,2-10,,
+889,11232,2025-09-08,Basic,monthly,39.0,United States,2-10,,
+890,11059,2025-09-09,Business,annual,211.65,United States,51-200,,
+891,11170,2025-09-09,Basic,monthly,39.0,United States,Solo,2025-12-03,Price
+892,11116,2025-09-10,Business,annual,211.65,Spain,51-200,,
+893,11275,2025-09-10,Business,monthly,249.0,United Kingdom,51-200,,
+894,11158,2025-09-11,Basic,monthly,39.0,Spain,11-50,2025-10-06,Missing features
+895,11171,2025-09-11,Basic,monthly,39.0,United States,Solo,,
+896,11535,2025-09-11,Basic,monthly,39.0,Germany,11-50,,
+897,11078,2025-09-12,Business,annual,211.65,France,11-50,,
+898,11178,2025-09-12,Pro,monthly,99.0,France,51-200,2025-10-09,Switched to competitor
+899,11189,2025-09-12,Basic,monthly,39.0,United States,Solo,2025-11-07,Switched to competitor
+900,11350,2025-09-13,Pro,monthly,99.0,Germany,11-50,,
+901,11405,2025-09-13,Basic,monthly,39.0,India,Solo,2025-12-10,Price
+902,11254,2025-09-14,Basic,monthly,39.0,France,2-10,2025-12-13,No longer needed
+903,11383,2025-09-14,Basic,monthly,39.0,Australia,11-50,,
+904,11420,2025-09-14,Basic,annual,33.15,,Solo,,
+905,11223,2025-09-15,Pro,monthly,99.0,India,11-50,,
+906,11282,2025-09-15,Pro,monthly,99.0,India,2-10,,
+907,11327,2025-09-15,Pro,annual,84.15,,2-10,,
+908,11340,2025-09-15,Pro,annual,84.15,United States,11-50,,
+909,11373,2025-09-15,Basic,monthly,39.0,Canada,Solo,2025-12-08,Missing features
+910,11513,2025-09-15,Basic,monthly,39.0,United Kingdom,Solo,,
+911,11313,2025-09-16,Basic,annual,33.15,Canada,2-10,,
+912,11445,2025-09-16,Basic,annual,33.15,United States,2-10,,
+913,11479,2025-09-16,Basic,annual,33.15,United States,Solo,,
+914,11533,2025-09-18,Basic,monthly,39.0,United States,2-10,2025-10-17,Switched to competitor
+915,11616,2025-09-18,Pro,annual,84.15,,11-50,,
+916,11463,2025-09-19,Basic,monthly,39.0,United States,Solo,,
+917,11410,2025-09-21,Business,monthly,249.0,United Kingdom,51-200,2025-10-19,Switched to competitor
+918,11514,2025-09-21,Pro,monthly,99.0,United States,51-200,,
+919,11413,2025-09-22,Business,monthly,249.0,Brazil,51-200,,
+920,11466,2025-09-22,Pro,annual,84.15,Australia,11-50,,
+921,11641,2025-09-22,Pro,monthly,99.0,Brazil,11-50,,
+922,11418,2025-09-23,Basic,monthly,39.0,,Solo,,
+923,11621,2025-09-23,Basic,monthly,39.0,United States,11-50,,
+924,11773,2025-09-23,Basic,monthly,39.0,United Kingdom,Solo,,
+925,11655,2025-09-25,Pro,annual,84.15,France,11-50,,
+926,11701,2025-09-25,Pro,monthly,99.0,Germany,2-10,2025-11-24,Price
+927,11867,2025-09-25,Basic,monthly,39.0,United States,2-10,2025-11-22,Missing features
+928,11581,2025-09-26,Basic,monthly,39.0,United States,2-10,2025-12-20,Price
+929,11767,2025-09-26,Basic,monthly,39.0,United States,Solo,,
+930,11572,2025-09-27,Basic,annual,33.15,Australia,Solo,,
+931,11835,2025-09-27,Basic,monthly,39.0,United States,Solo,,
+932,11517,2025-09-28,Pro,monthly,99.0,United States,11-50,,
+933,11570,2025-09-30,Basic,monthly,39.0,Spain,Solo,2025-12-21,No longer needed
+934,12001,2025-09-30,Business,monthly,249.0,Australia,51-200,2025-11-20,No longer needed
+935,12002,2025-10-01,Business,monthly,249.0,United States,51-200,,
+936,11825,2025-10-02,Pro,monthly,99.0,Brazil,11-50,2025-10-29,Switched to competitor
+937,11988,2025-10-02,Pro,annual,84.15,United States,51-200,,
+938,11842,2025-10-03,Business,annual,211.65,United States,200+,,
+939,11647,2025-10-04,Basic,monthly,39.0,India,2-10,,
+940,11725,2025-10-04,Basic,monthly,39.0,United States,2-10,,
+941,11889,2025-10-04,Pro,monthly,99.0,United States,11-50,,
+942,11890,2025-10-04,Pro,monthly,99.0,United States,11-50,,
+943,11923,2025-10-05,Basic,annual,33.15,India,2-10,,
+944,12131,2025-10-05,Pro,monthly,99.0,United States,2-10,,
+945,11806,2025-10-09,Basic,monthly,39.0,United States,11-50,2025-11-02,Switched to competitor
+946,11917,2025-10-09,Pro,monthly,99.0,India,51-200,,
+947,12188,2025-10-09,Business,annual,211.65,United Kingdom,51-200,,
+948,12172,2025-10-10,Basic,monthly,39.0,Germany,Solo,,
+949,11746,2025-10-11,Pro,monthly,99.0,India,2-10,,
+950,11788,2025-10-11,Basic,monthly,39.0,United Kingdom,2-10,2025-11-09,Missing features
+951,11855,2025-10-11,Pro,monthly,99.0,United States,11-50,,
+952,11913,2025-10-11,Basic,monthly,39.0,France,Solo,,
+953,12000,2025-10-11,Business,annual,211.65,United States,51-200,,
+954,12229,2025-10-11,Pro,monthly,99.0,United States,2-10,,
+955,12094,2025-10-13,Basic,monthly,39.0,Canada,11-50,,
+956,12363,2025-10-14,Pro,annual,84.15,United States,2-10,,
+957,12115,2025-10-17,Basic,monthly,39.0,Spain,Solo,,
+958,12281,2025-10-17,Business,annual,211.65,Germany,200+,,
+959,12232,2025-10-18,Pro,monthly,99.0,United States,2-10,,
+960,12242,2025-10-18,Pro,monthly,99.0,Germany,51-200,,
+961,12176,2025-10-19,Business,annual,211.65,United Kingdom,11-50,,
+962,12186,2025-10-19,Pro,monthly,99.0,United States,2-10,,
+963,12096,2025-10-20,Pro,monthly,99.0,Australia,11-50,,
+964,12109,2025-10-20,Basic,annual,33.15,Spain,Solo,,
+965,12236,2025-10-20,Basic,monthly,39.0,France,2-10,,
+966,12036,2025-10-21,Basic,monthly,39.0,Canada,Solo,,
+967,12470,2025-10-22,Basic,annual,33.15,United Kingdom,2-10,,
+968,12154,2025-10-24,Basic,monthly,39.0,Australia,2-10,2025-11-14,Price
+969,12458,2025-10-24,Pro,monthly,99.0,United Kingdom,2-10,,
+970,12293,2025-10-25,Basic,monthly,39.0,United States,Solo,,
+971,12239,2025-10-26,Basic,monthly,39.0,United Kingdom,Solo,,
+972,12247,2025-10-26,Business,monthly,249.0,Brazil,11-50,,
+973,12447,2025-10-26,Basic,monthly,39.0,United Kingdom,2-10,,
+974,12269,2025-10-27,Basic,annual,33.15,United States,Solo,,
+975,12413,2025-10-27,Basic,annual,33.15,United States,2-10,,
+976,12427,2025-10-27,Pro,monthly,99.0,Germany,2-10,,
+977,12214,2025-10-28,Pro,monthly,99.0,United States,11-50,,
+978,12381,2025-10-28,Basic,monthly,39.0,Brazil,Solo,2025-11-21,No longer needed
+979,12681,2025-10-28,Basic,monthly,39.0,Germany,Solo,,
+980,12320,2025-10-29,Basic,monthly,39.0,United States,Solo,,
+981,12491,2025-10-29,Basic,monthly,39.0,Canada,2-10,,
+982,12504,2025-10-29,Pro,monthly,99.0,United States,11-50,,
+983,12578,2025-10-29,Basic,monthly,39.0,United States,Solo,2025-11-25,Price
+984,12149,2025-10-30,Business,monthly,249.0,France,51-200,,
+985,12278,2025-10-30,Basic,monthly,39.0,,2-10,,
+986,12672,2025-10-31,Basic,monthly,39.0,United States,Solo,,
+987,12408,2025-11-01,Basic,monthly,39.0,United Kingdom,2-10,,
+988,12466,2025-11-01,Pro,monthly,99.0,,11-50,,
+989,12631,2025-11-01,Pro,monthly,99.0,India,2-10,,
+990,12503,2025-11-02,Pro,annual,84.15,United States,51-200,,
+991,12528,2025-11-02,Basic,monthly,39.0,Canada,11-50,,
+992,12331,2025-11-03,Pro,monthly,99.0,France,51-200,,
+993,12384,2025-11-03,Basic,monthly,39.0,United States,2-10,,
+994,12537,2025-11-03,Basic,monthly,39.0,United States,Solo,,
+995,12602,2025-11-03,Basic,monthly,39.0,,Solo,,
+996,12711,2025-11-03,Pro,monthly,99.0,Canada,51-200,,
+997,12723,2025-11-03,Basic,monthly,39.0,United Kingdom,2-10,,
+998,12474,2025-11-04,Basic,monthly,39.0,Canada,2-10,,
+999,12389,2025-11-05,Basic,monthly,39.0,United States,2-10,,
+1000,12511,2025-11-07,Pro,monthly,99.0,United States,11-50,,
+1001,12621,2025-11-07,Pro,monthly,99.0,Canada,2-10,,
+1002,12688,2025-11-07,Pro,monthly,99.0,United States,2-10,,
+1003,12775,2025-11-07,Basic,annual,33.15,United States,Solo,,
+1004,12641,2025-11-09,Pro,annual,84.15,United States,11-50,,
+1005,12789,2025-11-09,Pro,monthly,99.0,Brazil,2-10,,
+1006,12615,2025-11-10,Basic,monthly,39.0,United States,2-10,,
+1007,12766,2025-11-10,Basic,monthly,39.0,United States,Solo,,
+1008,12839,2025-11-11,Basic,annual,33.15,France,11-50,,
+1009,12842,2025-11-11,Business,monthly,249.0,United States,200+,,
+1010,12874,2025-11-11,Basic,annual,33.15,,Solo,,
+1011,12752,2025-11-12,Basic,monthly,39.0,India,2-10,,
+1012,12713,2025-11-13,Business,monthly,249.0,United States,51-200,,
+1013,12739,2025-11-13,Basic,monthly,39.0,Australia,11-50,,
+1014,12927,2025-11-13,Basic,annual,33.15,United States,Solo,,
+1015,12954,2025-11-15,Business,annual,211.65,Germany,51-200,,
+1016,12933,2025-11-16,Business,annual,211.65,United States,11-50,,
+1017,12993,2025-11-16,Pro,monthly,99.0,France,11-50,,
+1018,12783,2025-11-17,Basic,monthly,39.0,United States,2-10,,
+1019,12848,2025-11-17,Business,monthly,249.0,United Kingdom,51-200,,
+1020,12729,2025-11-19,Business,monthly,249.0,United States,51-200,,
+1021,12815,2025-11-19,Pro,monthly,99.0,Canada,2-10,,
+1022,13007,2025-11-19,Pro,monthly,99.0,Canada,11-50,,
+1023,12836,2025-11-21,Basic,annual,33.15,Canada,Solo,,
+1024,12906,2025-11-21,Basic,annual,33.15,,2-10,,
+1025,13066,2025-11-21,Basic,monthly,39.0,Spain,Solo,,
+1026,12741,2025-11-23,Basic,monthly,39.0,United States,2-10,,
+1027,12876,2025-11-24,Pro,monthly,99.0,United Kingdom,2-10,,
+1028,12895,2025-11-24,Basic,annual,33.15,India,2-10,,
+1029,12888,2025-11-25,Pro,monthly,99.0,United States,11-50,,
+1030,13147,2025-11-25,Business,annual,211.65,Canada,51-200,,
+1031,12819,2025-11-26,Pro,annual,84.15,Australia,11-50,,
+1032,12920,2025-11-28,Basic,monthly,39.0,United States,Solo,,
+1033,12959,2025-11-30,Pro,monthly,99.0,Canada,2-10,,
+1034,13109,2025-11-30,Pro,monthly,99.0,United States,2-10,,
+1035,13119,2025-11-30,Pro,monthly,99.0,United States,11-50,,
+1036,13198,2025-12-01,Basic,monthly,39.0,United States,Solo,2025-12-23,Poor support
+1037,13252,2025-12-01,Pro,annual,84.15,Canada,11-50,,
+1038,13209,2025-12-02,Pro,monthly,99.0,France,11-50,,
+1039,13136,2025-12-03,Basic,monthly,39.0,France,Solo,,
+1040,13187,2025-12-03,Basic,monthly,39.0,United States,2-10,,
+1041,13051,2025-12-04,Pro,monthly,99.0,Germany,2-10,,
+1042,13231,2025-12-04,Basic,annual,33.15,Germany,Solo,,
+1043,13263,2025-12-05,Business,monthly,249.0,United States,200+,,
+1044,13287,2025-12-05,Basic,monthly,39.0,United States,2-10,,
+1045,13411,2025-12-06,Pro,monthly,99.0,France,11-50,,
+1046,13039,2025-12-07,Basic,monthly,39.0,United Kingdom,11-50,,
+1047,13357,2025-12-07,Basic,monthly,39.0,United Kingdom,Solo,,
+1048,13372,2025-12-07,Business,monthly,249.0,United States,200+,,
+1049,13241,2025-12-10,Basic,annual,33.15,France,2-10,,
+1050,13286,2025-12-10,Pro,monthly,99.0,United States,2-10,,
+1051,13502,2025-12-10,Basic,monthly,39.0,United States,11-50,,
+1052,13296,2025-12-11,Business,annual,211.65,United Kingdom,200+,,
+1053,13481,2025-12-11,Pro,annual,84.15,United Kingdom,2-10,,
+1054,13517,2025-12-11,Business,annual,211.65,Spain,51-200,,
+1055,13488,2025-12-14,Business,annual,211.65,France,200+,,
+1056,13640,2025-12-14,Basic,monthly,39.0,Australia,2-10,,
+1057,13403,2025-12-16,Basic,monthly,39.0,India,Solo,,
+1058,13573,2025-12-18,Basic,annual,33.15,Brazil,Solo,,
+1059,13520,2025-12-20,Basic,monthly,39.0,United States,2-10,,
+1060,13600,2025-12-20,Pro,annual,84.15,United States,51-200,,
+1061,13572,2025-12-21,Basic,monthly,39.0,United States,2-10,,
+1062,13435,2025-12-22,Basic,monthly,39.0,United States,Solo,,
+1063,13565,2025-12-22,Pro,monthly,99.0,Brazil,51-200,,
+1064,13612,2025-12-23,Pro,annual,84.15,Canada,11-50,,
+1065,13701,2025-12-25,Pro,annual,84.15,Canada,11-50,,
+1066,13666,2025-12-26,Pro,annual,84.15,Canada,2-10,,
+1067,13744,2025-12-26,Pro,annual,84.15,United States,11-50,,
+1068,13665,2025-12-27,Basic,monthly,39.0,United Kingdom,2-10,,
+1069,13926,2025-12-27,Pro,monthly,99.0,Germany,2-10,,
+1070,13897,2025-12-28,Pro,monthly,99.0,United States,11-50,,
+1071,13747,2025-12-29,Business,monthly,249.0,United States,51-200,,
+1072,13633,2025-12-30,Business,monthly,249.0,United States,51-200,,
+1073,13800,2025-12-30,Basic,monthly,39.0,United States,Solo,,
+1074,13818,2025-12-30,Basic,monthly,39.0,Spain,Solo,,
+1075,13881,2025-12-30,Basic,monthly,39.0,Germany,2-10,,
+1076,13893,2025-12-30,Basic,monthly,39.0,Brazil,2-10,,
+1077,13841,2025-12-31,Basic,monthly,39.0,India,Solo,,
